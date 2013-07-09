@@ -1,7 +1,7 @@
 ﻿using System.Web.Http;
-using GenericRavenDataInterfaces;
+using Korz.GenericRavenDataInterfaces;
 
-namespace GenericRestWebApiControllers
+namespace Korz.GenericRestWebApiControllers
 {
     public abstract class EntityController<TEntity, TEntityCriteria, TEntityDataFactory> : ApiController
         where TEntity : IEntity

@@ -11,7 +11,7 @@
     <releaseNotes>Generic Raven Data Interfaces</releaseNotes>
     <copyright>Copyright 2013</copyright>
     <references>
-      <reference file="GenericDataInterfaces.dll" />
+      <reference file="Korz.GenericRavenDataInterfaces.dll" />
     </references>
   </metadata>
 </package>

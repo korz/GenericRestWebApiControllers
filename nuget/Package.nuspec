@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>GenericRestWebApiControllers</id>
+    <id>Korz.GenericRestWebApiControllers</id>
 	<title>Generic REST WebAPI Controllers</title>
     <version>1.0.0.0</version>
     <authors>Korz</authors>
@@ -10,5 +10,8 @@
     <description>Generic REST WebAPI Controllers</description>
     <releaseNotes>Generic REST WebAPI Controllers</releaseNotes>
     <copyright>Copyright 2013</copyright>
+	<dependencies>
+      <dependency id="Korz.GenericRavenDataInterfaces" version="1.0.0.0" />
+    </dependencies>
   </metadata>
 </package>
