@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>GenericRavenDataInterfaces</id>
+    <version>1.0.0.0</version>
+    <title>Generic Raven Data Interfaces</title>
+    <authors>Korz</authors>
+    <owners>Korz</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Generic Raven Data Interfaces</description>
+    <releaseNotes>Generic Raven Data Interfaces</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <references>
+      <reference file="GenericRavenDataInterfaces.dll" />
+    </references>
+  </metadata>
+</package>
